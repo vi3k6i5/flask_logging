@@ -14,9 +14,9 @@ logging across files in flask project
     "data": "SUCCESSFUL"
   }
   
-### Log message
+### Log message in the file.log
 
-it will look somewhat liek this:
+it will look somewhat like this:
 
  2015-10-15 17:49:05,795 INFO: hi [in /tmp/app/helper.py:5]
  
